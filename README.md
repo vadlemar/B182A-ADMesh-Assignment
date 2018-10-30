@@ -8,7 +8,7 @@ rotaci kolem osy Z tak, aby plocha obdélníkové podstavy pomyslného opsaného
 hranolu objektu byla co nejmenší – hrany pomyslného opsaného hranolu jsou
 rovnoběžné s osami X, Y nebo Z.
 
-Do repozitáře vytvořeného na odkazu https://classroom.github.com/a/q9jHE22y
+Do repozitáře vytvořeného na odkazu https://classroom.github.com/a/-qWs4zZo
 dejte soubor `bestrot` s příponou `c`, `cpp`, `py` nebo `rb` podle zvoleného
 jazyka (např. `bestrot.c`). Je povoleno použít pouze standardní knihovnu jazyka
 a ADMesh (u Ruby RADMesh).
@@ -19,7 +19,7 @@ Ilustrační obrázek z Netfabbu ukazující opsaný hranol s obdélníkovou pod
 
 (Model CC BY-NC 3.0 © [Daniel Moos](https://www.thingiverse.com/thing:50212).)
 
-Program vypíše na standardní výstup úhel otočení (ve stupních), obsah postavy
+Program vypíše na standardní výstup úhel otočení (ve stupních), obsah podstavy
 opsaného hranolu (ten nejlepší nalezený), a do souboru zadaného druhým
 argumentem (z příkazové řádky) uloží orotovaný soubor v takovém formátu
 (ASCII/binary), v jakém byl načten
